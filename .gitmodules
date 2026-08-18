@@ -10,3 +10,6 @@
 [submodule "dsh-univer-office"]
 	path = dsh-univer-office
 	url = https://github.com/dream-num/dsh-univer-office.git
+[submodule "dsh-mcp-manage"]
+	path = dsh-mcp-manage
+	url = https://github.com/wuhobin/dsh-mcp-manage.git
