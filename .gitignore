@@ -1,0 +1,17 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local environment and logs
+.env
+.env.*
+*.log
+
+# Temporary and coverage output at the superproject root
+tmp/
+coverage/
+dist/
+*.tgz
+*.zip
