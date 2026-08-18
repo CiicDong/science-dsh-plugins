@@ -10,6 +10,7 @@ Thumbs.db
 *.log
 
 # Temporary and coverage output at the superproject root
+.pnpm-store/
 tmp/
 coverage/
 dist/
