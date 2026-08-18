@@ -7,3 +7,6 @@
 [submodule "dsh-genui"]
 	path = dsh-genui
 	url = https://github.com/omdsh-dev/dsh-genui.git
+[submodule "dsh-mcp-view"]
+	path = dsh-mcp-view
+	url = https://github.com/stopchewing/dsh-mcp-view.git
